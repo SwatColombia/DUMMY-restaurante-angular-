@@ -1,2 +1,1 @@
-// Archivo Angular: point-of-sale.component.ts
-// Importaciones y lógica simulada de TypeScript para el Restaurante.
+// Manejo de facturacion y facturas en puntos de venta

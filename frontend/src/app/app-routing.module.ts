@@ -1,2 +1,1 @@
-// Archivo Angular: app-routing.module.ts
-// Importaciones y lógica simulada de TypeScript para el Restaurante.
+// La configuración de rutas para la aplicación Angular
